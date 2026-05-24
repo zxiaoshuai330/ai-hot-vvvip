@@ -16,7 +16,7 @@ line_link = "https://line.me/ti/p/nkakY8ZXma"
 MAX_FREE = 3
 
 # 🔑 你可以改這個授權碼
-VIP_CODE = "8888"
+VIP_CODE = "win168188"
 
 @app.route("/", methods=["GET", "POST"])
 def home():
